@@ -1,6 +1,8 @@
 # 📡 Large Conference Management Network Simulation (Cisco Packet Tracer)
 
 This project simulates a complete networking environment for a **Large Conference Management Company** using **Cisco Packet Tracer**. It includes server setups, VLANs, wireless access, ACLs, bandwidth limits, and proper IP subnetting — all designed for real-world organizational use cases.
+![Uploading Screenshot 2025-04-24 080157.png…]()
+
 
 ## 🧠 Scenario Overview
 
